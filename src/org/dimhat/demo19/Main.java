@@ -1,10 +1,11 @@
-package org.dimhat.event;
+package org.dimhat.demo19;
 
-import org.dimhat.event.event.LoginEvent;
-import org.dimhat.event.event.LogoutEvent;
-import org.dimhat.event.event.RegisterEvent;
-import org.dimhat.event.listener.EmailSendListener;
-import org.dimhat.event.listener.OnlineUserCountListener;
+
+import org.dimhat.demo19.event.LoginEvent;
+import org.dimhat.demo19.event.LogoutEvent;
+import org.dimhat.demo19.event.RegisterEvent;
+import org.dimhat.demo19.listener.EmailSendListener;
+import org.dimhat.demo19.listener.OnlineUserCountListener;
 
 /**
  * @author : zwj

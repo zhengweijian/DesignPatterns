@@ -1,8 +1,9 @@
-package org.dimhat.event.listener;
+package org.dimhat.demo19.listener;
 
-import org.dimhat.event.EventSource;
-import org.dimhat.event.MyEventListener;
-import org.dimhat.event.event.RegisterEvent;
+
+import org.dimhat.demo19.EventSource;
+import org.dimhat.demo19.MyEventListener;
+import org.dimhat.demo19.event.RegisterEvent;
 
 /**
  * @author : zwj

@@ -1,9 +1,10 @@
-package org.dimhat.event.listener;
+package org.dimhat.demo19.listener;
 
-import org.dimhat.event.EventSource;
-import org.dimhat.event.MyEventListener;
-import org.dimhat.event.event.LoginEvent;
-import org.dimhat.event.event.LogoutEvent;
+
+import org.dimhat.demo19.EventSource;
+import org.dimhat.demo19.MyEventListener;
+import org.dimhat.demo19.event.LoginEvent;
+import org.dimhat.demo19.event.LogoutEvent;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

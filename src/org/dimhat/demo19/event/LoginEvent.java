@@ -1,13 +1,14 @@
-package org.dimhat.event.event;
+package org.dimhat.demo19.event;
 
-import org.dimhat.event.EventSource;
+
+import org.dimhat.demo19.EventSource;
 
 /**
  * 登录事件
  * @author : zwj
  * @data : 2016/10/27
  */
-public class LoginEvent extends EventSource{
+public class LoginEvent extends EventSource {
 
     public LoginEvent() {
         super("Login Event");

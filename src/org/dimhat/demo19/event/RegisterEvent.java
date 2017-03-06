@@ -1,6 +1,7 @@
-package org.dimhat.event.event;
+package org.dimhat.demo19.event;
 
-import org.dimhat.event.EventSource;
+
+import org.dimhat.demo19.EventSource;
 
 /**
  * 注册事件
